@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Pytest cache
+.pytest_cache/
+
+# User-specific runtime data (optional/can keep sample data or keep empty folders with .gitkeep)
+recordings/learner_*.wav
+outputs/temp_*.png
+logs/*.log
+
+# Virtual environments
+venv/
+env/
+.env
